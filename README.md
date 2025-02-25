@@ -6,6 +6,12 @@
 - 指導教授：周志隆 (Je Rome Chou)
 - 教材：Machine Learning and Data Science Blueprints for Finance
 
+## 建議執行環境
+- Google Colab
+  - 免費的雲端 Jupyter Notebook 環境
+  - 已預裝常用的機器學習和資料科學套件
+  - 支援 GPU 加速運算
+
 ## 課程簡介
 本課程專注於機器學習在金融領域的應用，結合理論與實務，幫助學生掌握金融科技的核心概念與實作技能。
 
