@@ -1,0 +1,25 @@
+# 作業 4 - NVDA 配對交易分析所需套件
+# 建議使用 Python 3.8+ 版本
+
+# 基礎數據處理套件
+numpy>=1.21.0
+pandas>=1.3.0
+
+# 機器學習套件
+scikit-learn>=1.0.0
+
+# 統計分析套件
+scipy>=1.7.0
+statsmodels>=0.12.0
+
+# 視覺化套件
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# 金融數據套件（可選，程式碼中有使用但實際執行時不需要）
+pandas-datareader>=0.10.0
+
+# 其他工具套件
+datetime  # Python 內建套件
+warnings  # Python 內建套件
+itertools  # Python 內建套件 
